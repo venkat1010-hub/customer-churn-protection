@@ -1,1 +1,1 @@
-# customer-churn-protection
+# CUSTOMER-CHURN-PREDICTION
